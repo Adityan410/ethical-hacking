@@ -1,0 +1,25 @@
+TASK 2
+
+TARGET -  https://zero.webappsecurity.com/ 
+
+TOOL - NETSPARKER
+
+CRITICAL VULNERABILITY FOUND - 3 FOUND
+
+VULNERABILITY NAME - Out-of-date Version(OpenSSL)
+
+CONDITION - CRITICAL
+
+VERSION FOUND IN TARGET- 0.9.8E 
+		The target version contains 5 critical and 107 other vulnerabilities earlier.
+
+LATEST VERSION AVAILABLE - 1.1.1K 
+
+VULNERABILITY DETAILS - The tool identified that the website is 
+			using out-of-date version of OpenSSL
+
+IMPACT OF THE VULNERABILITY  - The OpenSSL is an old version which is used by this site so it is
+				vulnerable to the attackers out there.
+
+REMEDY FOR THIS VULNERABILITY  - To update the version of the OpenSSL so that it is not prone
+				 attacks.
